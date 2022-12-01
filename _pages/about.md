@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Zheng Wang (汪政)"
-excerpt: "Zheng Wang (汪政)"
+title: "Yunfeng Li (李云峰)"
+excerpt: "Yunfeng Li (李云峰)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,12 +14,13 @@ redirect_from:
 
 Bio
 ======
-**Zheng Wang** is a 2nd year PhD student at the Department of Computer Science, UC Santa Barbara, starting from 2021. He got his B.E. from the Department of Computer Science, Tongji University. At UCSB, Zheng is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Zheng's research interests include high-performance computing and end-to-end optimization for deep learning. 
+**Yunfeng Li** is a 3nd year PhD student at the Department of Electronic and Information Engeneering @ SZU; Research Assistant at the Department of Electronic and Electricity Engeneering @ HKU; Research Scholar at the Department of Computer Science, UC Santa Barbara. Starting from 2019. He got his B.E. from Jiangxi Normal University. At UCSB, Yunfeng is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Yunfeng's research interests include high-performance computing, Federated Learning, Quamtum Computing and end-to-end optimization for deep learning. 
 
 Below are some of his recent projects:
+* Cyber Security detection based on Ensemble Learning. 
+* Privacy Protection based on Federated Learning.
+* Photovoltaic Power Forecasting With a Hybrid Deep Learning.
 * System design for Deep Learning Recommendation Model (DLRM).
-* Neural network verification acceleration.
-* Zero-Knowledge Proofs for Neural Networks.
 
 <br />
 
@@ -48,15 +49,15 @@ Professional Services
 
 Publication 
 ======
-[SC'2022] **Zheng Wang**, Yuke Wang, Boyuan Feng, Dheevatsa Mudigere, Bharath Muthiah, Yufei Ding.
-*EL-Rec: Efficient Large-scale Recommendation Model Training via Tensor-train Embedding Table.*
+[Energy'2021] **Yunfeng Li**, Wenli Xue, Ting Wu, Huaizhi Wang,Bin Zhoue, Saddam Aziz.
+*Intrusion detection of cyber physical energy system based on multivariate ensemble classification.*
 
-[Preprint] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding.
-*GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.*
+[IEEE'2021] **Yunfeng Li**, Xiaolin Li, Gangqiang Li, Zhitao Li.
+*Privacy Protection in Prosumer Energy Management Based on Federated Learning.*
 
-[USENIX ATC'2022] Boyuan Feng, Tianqi Tang, Yuke Wang, Zhaodong Chen, **Zheng Wang**, Shu Yang, Yuan Xie, Yufei Ding. 
-*Faith: An Efficient Framework for Transformer Verification on GPUs.*
+[IEEE'2021] Gangqiang Li, Sen Xie, Bozhong Wang, Jiantao Xin, **Yunfeng Li**, Shengnan Du. 
+*Photovoltaic Power Forecasting With a Hybrid Deep Learning Approach.*
 
-[AAAI'2021] Boyuan Feng, Yuke Wang, **Zheng Wang**, Yufei Ding.
-*UAG: Uncertainty-aware Atten- tion Graph Neural Network for Defending Adversarial Attacks.*
+# [AAAI'2021] Boyuan Feng, Yuke Wang, **Zheng Wang**, Yufei Ding.
+# *UAG: Uncertainty-aware Atten- tion Graph Neural Network for Defending Adversarial Attacks.*
 

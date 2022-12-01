@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng Wang"
+title                    : "Yunfeng Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://www.zhengwang.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.yunfengli.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ash-Zheng/Ash-Zheng.github.io"
+repository               : "CanoVerst/CanoVerst.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zheng Wang"
+  name             : "Yunfeng Li"
   avatar           : "self.JPG"
-  bio              : "CS PhD Student @ UCSB"
+  bio              : "ICE PhD Student @ SZU; Research Assistant @ HKU; Research Scholar @ UCSB"
   location         : "🏖️Santa Barbara, CA, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=fyluT8gAAAAJ&hl=en"
-  email            : "zheng_wang@ucsb.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=3cq3aYoAAAAJ&hl=en"
+  email            : "yunfengli@ucsb.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Ash-Zheng"
+  github           : "CanoVerst"
   google_plus      :
   keybase          :
   instagram        :
