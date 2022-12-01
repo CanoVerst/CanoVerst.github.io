@@ -58,6 +58,4 @@ Publication
 [IEEE'2021] Gangqiang Li, Sen Xie, Bozhong Wang, Jiantao Xin, **Yunfeng Li**, Shengnan Du. 
 *Photovoltaic Power Forecasting With a Hybrid Deep Learning Approach.*
 
-# [AAAI'2021] Boyuan Feng, Yuke Wang, **Zheng Wang**, Yufei Ding.
-# *UAG: Uncertainty-aware Atten- tion Graph Neural Network for Defending Adversarial Attacks.*
 
