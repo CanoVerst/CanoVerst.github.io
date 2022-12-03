@@ -14,11 +14,11 @@ redirect_from:
 
 Bio
 ======
-**Yunfeng Li** is a 3nd year PhD student at the Department of Electronics and Information Engeneering @ SZU; Research Assistant at the Department of Electrical and Electronic Engeneering @ HKU; Research Scholar at the Department of Computer Science, UC Santa Barbara. Starting from 2016. He got his B.E. @ JXNU. At SZU, Yunfeng is working with Prof <a href="https://ceie.szu.edu.cn/info/1034/1249.htm/">Shengli Zhang</a>. At HKU, Yunfeng is working with Prof <a href="https://www.eee.hku.hk/~yhhou//">Yunhe Hou</a>. At UCSB, Yunfeng is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Yunfeng's research interests include high-performance computing, Federated Learning, Quamtum Computing and end-to-end optimization for deep learning. 
+**Yunfeng Li** is a 3nd year PhD student at the Department of Electronics and Information Engeneering @ SZU; Research Assistant at the Department of Electrical and Electronic Engeneering @ HKU; Research Scholar at the Department of Computer Science, UC Santa Barbara. Starting from 2016. He got his B.E. @ JXNU. At SZU, Yunfeng is working with Prof <a href="https://ceie.szu.edu.cn/info/1034/1249.htm">Shengli Zhang</a>. At HKU, Yunfeng is working with Prof <a href="https://www.eee.hku.hk/~yhhou//">Yunhe Hou</a>. At UCSB, Yunfeng is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Yunfeng's research interests include high-performance computing, Federated Learning, Quamtum Computing and end-to-end optimization for deep learning. 
 
-                    Motto：  “Try to learn something about everything and everything about something.”
+          Motto：  “Try to learn something about everything and everything about something.”
                                      —Thomas Henry Huxley (1825 - 1895)
-                             “已欲立而立人，已欲达而达人”
+                    “已欲立而立人，已欲达而达人”
                                      — Confucius (551 BC - 479 BC)
 
 Below are some of his recent projects:
